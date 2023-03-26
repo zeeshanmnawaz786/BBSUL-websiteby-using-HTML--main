@@ -1,0 +1,48 @@
+body
+{
+    background-color: #800622;
+}
+/* *
+{
+    color:white;
+} */
+
+table.secondtable
+{
+    font-weight:bold;
+}
+table.secondtab
+{
+    background-color:black;
+}
+table.tableone
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+table.tableseven
+{
+    color: white;
+}
+
+
+div
+{
+    background-color: white;
+    margin-left:  156px;
+    margin-right: 158px;
+    color: black;
+}
+
+
+div.login
+{
+   margin-left: 25%;
+   margin-right: 25%; 
+}
+
+a.link
+{
+    color: white;
+    
+}
